@@ -23,30 +23,31 @@ This project analyzes nursing home staffing trends, compliance with CMS regulati
 ✅ Objective: Identify facilities falling below CMS staffing requirements (3.48 Hours Per Resident Day - HPRD).
 🔎 Findings:
 
-Numerous facilities fall below the 3.48 HPRD threshold, increasing penalty risks.
-The most severely non-compliant facilities are at risk of fines and citations.
+- Numerous facilities fall below the 3.48 HPRD threshold, increasing penalty risks.
+- The most severely non-compliant facilities are at risk of fines and citations.
 
 2. Workforce Stability & Contract Utilization Analysis
 ✅ Objective: Identify facilities with extreme staffing fluctuations but low contract staffing usage (≤20%).
 🔎 Findings:
 
-Many unstable facilities are not leveraging contract staffing, leading to inefficiencies.
-The top 10 most unstable facilities accounted for $22,292,277.82 (0.05%) in fines paid.
-Underutilization of contract nurses presents a sales opportunity for staffing solutions.
+- Many unstable facilities are not leveraging contract staffing, leading to inefficiencies.
+- The top 10 most unstable facilities accounted for $22,292,277.82 (0.05%) in fines paid.
+- Underutilization of contract nurses presents a sales opportunity for staffing solutions.
 
 3. Facility Size & State-Level Trends
 ✅ Objective: Analyze staffing compliance by facility size.
 🔎 Findings:
 
-Large facilities (>150 residents) have the highest violation rates (43%).
-Medium-sized facilities (50-150 residents) show 41% violation rates.
-Small facilities (<50 residents) have the lowest violation rates (28%), indicating more stable staffing.
-4️⃣ Predictive Staffing Analysis (ARIMA Forecasting)
+- Large facilities (>150 residents) have the highest violation rates (43%).
+- Medium-sized facilities (50-150 residents) show 41% violation rates.
+- Small facilities (<50 residents) have the lowest violation rates (28%), indicating more stable staffing.
+  
+4. Predictive Staffing Analysis (ARIMA Forecasting)
 ✅ Objective: Forecast future staffing trends & predict compliance risks.
 🔎 Findings:
 
-Forecasting models indicate continued seasonal staffing fluctuations.
-Many facilities are projected to remain non-compliant, reinforcing the need for proactive staffing solutions.
+- Forecasting models indicate continued seasonal staffing fluctuations.
+- Many facilities are projected to remain non-compliant, reinforcing the need for proactive staffing solutions.
 
 # Key Business Recommendations
 This analysis supports data-driven staffing strategies for nursing homes, focusing on cost reduction, workforce optimization, and compliance solutions.
@@ -77,4 +78,4 @@ This analysis supports data-driven staffing strategies for nursing homes, focusi
 # How To Use:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bsetia1/A-B-Testing-Marketing-Campaign.git
+   git clone https://github.com/Bsetia1/PBJ-Nursing-Home-Staffing-Analysis-Compliance-Risk-Forecasting.git
